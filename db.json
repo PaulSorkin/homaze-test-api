@@ -1,4 +1,4 @@
-{
+[{
   "id": "4",
   "customerName": "Billy bob thornton",
   "projectId": "MA-P-10006",
@@ -169,3 +169,4 @@
     "totalProject": 9250,
     "projectState": "In progress"
   }
+  ]
